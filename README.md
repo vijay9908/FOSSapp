@@ -1,2 +1,2 @@
 # FOSSapp
-An app for FOSS@Amrita
+An app for [FOSS@Amrita](https://amfoss.in/)
